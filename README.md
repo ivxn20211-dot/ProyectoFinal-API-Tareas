@@ -1,7 +1,7 @@
 # ProyectoFinal-API-Tareas
 API REST de tareas con autenticación JWT + Frontend básico
 Este proyecto consiste en una aplicación completa que incluye un backend desarrollado con Node.js, Express, MongoDB y JWT, junto con un frontend sencillo en HTML, CSS y JavaScript. El sistema permite registrar usuarios, iniciar sesión y gestionar tareas protegidas mediante autenticación.
----
+--- 
 Funcionalidades principales
 Autenticación
 • Registro de usuarios
